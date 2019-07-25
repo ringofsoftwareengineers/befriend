@@ -1,7 +1,7 @@
 <?php
 define("host", "db669126949.db.1and1.com");
 define("user", "dbo669126949");
-define("password", "Un1vers1t?");
+define("password", "Lahore12");
 define("database", "db669126949");
 
 //define("host", "localhost");
